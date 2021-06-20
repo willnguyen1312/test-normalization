@@ -1,5 +1,5 @@
 {
-  "name": "normalizer",
+  "name": "test-normalization",
   "version": "1.0.0",
   "description": "CodeSandbox for testing normalization 🎉",
   "main": "index.js",
@@ -7,7 +7,9 @@
     "test": "jest",
     "test:w": "jest --watchAll"
   },
-  "keywords": ["Normalization"],
+  "keywords": [
+    "normalization"
+  ],
   "author": "Nam Nguyen <nam.nguyen.node@gmail.com>",
   "license": "ISC",
   "devDependencies": {
