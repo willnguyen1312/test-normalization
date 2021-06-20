@@ -1,7 +1,7 @@
 {
   "name": "normalizer",
   "version": "1.0.0",
-  "description": "CodeSandbox for testing normalization",
+  "description": "CodeSandbox for testing normalization 🎉",
   "main": "index.js",
   "scripts": {
     "test": "jest",
