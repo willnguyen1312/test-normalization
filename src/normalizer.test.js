@@ -1,5 +1,6 @@
 import { normalize } from "./normalizer";
 
+// The schema of data is static which is known ahead of time - Restful API :)
 const originalData = {
   id: "123",
   author: {
